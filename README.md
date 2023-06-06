@@ -4,7 +4,7 @@
 
 Este repositorio contiene todos los ejercicios teóricos realizados a lo largo del módulo de lenguaje de marcas. 
 
-## Advertencia
+## Ejercicios prácticos
 
 Los ejercicios prácticos pueden encontrarse [aquí](https://github.com/hugoruizsanchez/-1DAW-Lenguaje-de-marcas-ejercicios).
 
