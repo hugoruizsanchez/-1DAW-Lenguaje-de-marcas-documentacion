@@ -1,6 +1,6 @@
 # Advertencia
 
-Este es un repositorio de ejercicios teóricos, los ejercicios prácticos pueden encontrarse en [aquí](https://github.com/hugoruizsanchez/-1DAW-Lenguaje-de-marcas-ejercicios).
+Este es un repositorio de ejercicios teóricos, los ejercicios prácticos pueden encontrarse [aquí](https://github.com/hugoruizsanchez/-1DAW-Lenguaje-de-marcas-ejercicios).
 
 # Documentación de Lenguaje de Marcas: Curso de Desarrollo de Aplicaciones Web (DAW) 
 
